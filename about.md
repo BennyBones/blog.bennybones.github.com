@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Perth based musician and builder. I am working with 3D design and PCB design at the moment to create moduales for my synthesiser.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am also a photographer, youtuber, and artist. This blog is a place I can share all my work.
 
 ### Contact me
 
