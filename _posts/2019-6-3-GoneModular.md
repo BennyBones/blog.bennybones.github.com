@@ -5,7 +5,7 @@ title: Gone Modular.
 
 Over the past few months I have been attending a local modular synth workshop at the Artifactory.
 
-![_config.yml]({{ site.baseurl }}/images/Modular_1.jpg)
+![_config.yml]({{ site.baseurl }}/images/20190603_Modular.jpg)
 
 I've been attending these workshops which are geared towards people interested in building modular synthesiser kits. The kits are all put together by the organisers, [Nonlinear Circuits](http://nonlinearcircuits.blogspot.com). I find building these kits have given my a much more indepth look at how they work and how the circuits are built.
 
